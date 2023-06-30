@@ -20,13 +20,7 @@ This project is a game developed in Unity using the C# programming language. The
 - User-friendly controls using the A, D, and W keys.
 - Visually appealing graphics and effects.
 
-    ## Installation and Usage:
-    1. Clone or download the project repository.
-    2. Open the project in Unity.
-    3. Set up the required dependencies and configurations.
-    4. Build and run the game on your Unity Hub.
-    5. Control the ball using the A, D, and W keys to navigate through the levels, collect cylinders, and avoid obstacles.
-    6. Aim to reach the finish line with the highest score possible.
+
 
 
 
